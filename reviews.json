@@ -1,0 +1,136 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Alice Smith",
+      "subject": "Physics",
+      "star": 5,
+      "review": "Dr. Smith is an outstanding professor. Her lectures are clear, and she is always available for help."
+    },
+    {
+      "professor": "Prof. John Doe",
+      "subject": "Mathematics",
+      "star": 4,
+      "review": "Prof. Doe is knowledgeable and engaging, though his assignments can be quite challenging."
+    },
+    {
+      "professor": "Ms. Emily Johnson",
+      "subject": "History",
+      "star": 3,
+      "review": "Ms. Johnson’s classes are informative but can be a bit monotonous at times."
+    },
+    {
+      "professor": "Dr. Michael Brown",
+      "subject": "Chemistry",
+      "star": 4,
+      "review": "Dr. Brown makes chemistry interesting and relevant. The labs are a great hands-on experience."
+    },
+    {
+      "professor": "Prof. Sarah Davis",
+      "subject": "Computer Science",
+      "star": 5,
+      "review": "Prof. Davis is an exceptional teacher. Her explanations are thorough and she encourages critical thinking."
+    },
+    {
+      "professor": "Dr. Robert Wilson",
+      "subject": "Biology",
+      "star": 2,
+      "review": "Dr. Wilson’s lectures are difficult to follow, and his grading is very strict."
+    },
+    {
+      "professor": "Ms. Jessica Martinez",
+      "subject": "English Literature",
+      "star": 4,
+      "review": "Ms. Martinez is passionate about literature and her classes are always thought-provoking."
+    },
+    {
+      "professor": "Dr. William Garcia",
+      "subject": "Economics",
+      "star": 3,
+      "review": "Dr. Garcia has a lot of expertise, but his lectures can be a bit dry and hard to stay engaged with."
+    },
+    {
+      "professor": "Prof. Laura Thompson",
+      "subject": "Philosophy",
+      "star": 5,
+      "review": "Prof. Thompson is amazing. She makes complex ideas accessible and stimulates deep discussions."
+    },
+    {
+      "professor": "Dr. James Anderson",
+      "subject": "Engineering",
+      "star": 4,
+      "review": "Dr. Anderson is very knowledgeable and provides practical examples, although his exams can be quite tough."
+    },
+    {
+      "professor": "Ms. Rachel Lee",
+      "subject": "Art History",
+      "star": 4,
+      "review": "Ms. Lee brings enthusiasm to her lectures and has a knack for making art history engaging and fun."
+    },
+    {
+      "professor": "Prof. George Martinez",
+      "subject": "Sociology",
+      "star": 3,
+      "review": "Prof. Martinez covers the basics well but could improve in making the material more interactive."
+    },
+    {
+      "professor": "Dr. Karen Wilson",
+      "subject": "Statistics",
+      "star": 5,
+      "review": "Dr. Wilson makes a difficult subject approachable with clear explanations and plenty of examples."
+    },
+    {
+      "professor": "Prof. Eric Taylor",
+      "subject": "Music Theory",
+      "star": 3,
+      "review": "Prof. Taylor has a deep understanding of music theory but his teaching style might not be for everyone."
+    },
+    {
+      "professor": "Ms. Olivia King",
+      "subject": "Creative Writing",
+      "star": 5,
+      "review": "Ms. King is a fantastic mentor who provides insightful feedback and fosters a supportive writing community."
+    },
+    {
+      "professor": "Dr. Daniel Adams",
+      "subject": "Environmental Science",
+      "star": 4,
+      "review": "Dr. Adams is passionate about the subject and offers practical insights into environmental issues."
+    },
+    {
+      "professor": "Prof. Anna Clark",
+      "subject": "Econometrics",
+      "star": 4,
+      "review": "Prof. Clark is very thorough in her teaching and helps students understand complex econometric models."
+    },
+    {
+      "professor": "Dr. Steven Scott",
+      "subject": "Organic Chemistry",
+      "star": 2,
+      "review": "Dr. Scott’s class is challenging and he does not offer much help outside of lectures."
+    },
+    {
+      "professor": "Ms. Laura Green",
+      "subject": "Public Speaking",
+      "star": 5,
+      "review": "Ms. Green’s classes are empowering and help students build confidence in public speaking."
+    },
+    {
+      "professor": "Prof. Henry Collins",
+      "subject": "International Relations",
+      "star": 4,
+      "review": "Prof. Collins has a wealth of knowledge and brings current events into the classroom for discussion."
+    },
+    {
+      "professor": "Dr. Natalie Hughes",
+      "subject": "Genetics",
+      "star": 3,
+      "review": "Dr. Hughes is knowledgeable but her lectures can sometimes be overwhelming due to the amount of information."
+    },
+    {
+      "professor": "Prof. Michael Turner",
+      "subject": "Humanities",
+      "star": 4,
+      "review": "Prof. Turner makes humanities come alive with engaging discussions and insightful critiques."
+    }
+  ]
+}
